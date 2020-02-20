@@ -1,0 +1,4 @@
+[x] SALVAR STATUS DO JOGADOR NO BD
+[x] notificações push
+[x] cheat de mostrar posição do inimigo
+[] termo de uso de dados
