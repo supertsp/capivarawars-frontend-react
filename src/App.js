@@ -16,7 +16,8 @@ export default class App extends Component {
     constructor(props) {
         super(props);
 
-        AxiosRest.addApiConnection(`http://${window.location.hostname}:8082/api/v1/playerservice`, 'playerService');
+        AxiosRest.addApiConnection(`https://capivarawars-player-service.herokuapp.com/api/v1/playerservice`, 'playerService');
+        // AxiosRest.addApiConnection(`http://${window.location.hostname}:8082/api/v1/playerservice`, 'playerService');
         AxiosRest.addApiConnection(`http://${window.location.hostname}:8083/api/v1/capybaraservice`, 'capybaraService');
 
     }

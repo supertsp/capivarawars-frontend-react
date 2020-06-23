@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="user-yoshi-icon.svg">
+   sodipodi:docname="user-yoshi-glass-icon.svg">
   <defs
      id="defs2">
     <clipPath
@@ -143,5 +143,23 @@
        transform="matrix(0.26458334,0,0,0.26458334,50.948503,44.433615)"
        id="path4397"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:#183c16;fill-opacity:1;stroke:none;stroke-width:0.23263302px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60.084294,62.07084 c 0.836444,-0.382352 2.093593,-0.09308 2.996245,0.367948 1.49994,0.766094 3.237061,3.584862 3.237061,3.584862 0,0 -1.827287,-2.197193 -3.149629,-2.760876 -1.099503,-0.468685 -2.863406,0.579955 -3.523402,-0.322677 -0.215883,-0.295248 0.118038,-0.722209 0.439725,-0.869257 z"
+       id="path3977"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscsss" />
+    <path
+       sodipodi:nodetypes="sscsss"
+       inkscape:connector-curvature="0"
+       id="path3979"
+       d="m 57.6117,61.93688 c -0.73927,-0.377649 -1.72233,-0.102497 -2.390638,0.342185 -1.110531,0.738925 -2.110405,3.478864 -2.110405,3.478864 0,0 1.165577,-2.133102 2.161171,-2.675573 0.827819,-0.45105 2.422714,0.581731 2.827549,-0.295078 0.13242,-0.286802 -0.203363,-0.705159 -0.487674,-0.8504 z"
+       style="fill:#183c16;fill-opacity:1;stroke:none;stroke-width:0.20745303px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#1a1a1a;fill-opacity:0.92964825;stroke:none;stroke-width:0.26458335px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 69.440214,50.974143 c 0.312495,1.402806 0.469087,4.274167 -0.41761,5.261869 -0.53213,0.592746 -2.516222,1.400397 -3.624842,0.317382 -0.976591,-0.954035 -1.998238,-1.69632 -3.290755,-2.054634 -0.220113,-0.06102 -1.959712,-0.353624 -2.42213,-0.350794 -0.52979,-0.825677 -0.586471,-2.656446 -0.451019,-3.558026 1.511869,0.273068 2.900233,0.42268 4.326377,0.485547 0.04874,0.52462 0.378626,0.533886 0.584089,0.02092 1.614352,0.04482 3.303804,-0.0132 5.29589,-0.122265 z"
+       id="path3981"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssscccccc" />
   </g>
 </svg>
