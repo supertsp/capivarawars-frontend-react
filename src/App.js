@@ -20,6 +20,7 @@ export default class App extends Component {
         // AxiosRest.addApiConnection(`http://${window.location.hostname}:8082/api/v1/playerservice`, 'playerService');
         AxiosRest.addApiConnection(`http://${window.location.hostname}:8083/api/v1/capybaraservice`, 'capybaraService');
 
+        //comentário
     }
 
 
