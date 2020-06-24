@@ -39,7 +39,7 @@ class Welcome extends Component {
 
                         <div className="container-bamboo-border">
                             <form className="container-bamboo-bg-color text-center padding-bottom-1">
-                                <p>Choose your Side in this War!</p>
+                                <p>Choose your Side in this War!!!</p>
 
                                 <span className="form-group-button">
                                     <Link to="/register">
